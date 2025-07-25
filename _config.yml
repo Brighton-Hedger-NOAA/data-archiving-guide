@@ -1,8 +1,7 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: PIFSC Data Archiving Guide
+description: A guide to data archiving at NOAA PIFSC.
+url: https://brighton-hedger-noaa.github.io
+baseurl: /data-archiving-guide
 
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# Set your custom color scheme
+color_scheme: pifsc
