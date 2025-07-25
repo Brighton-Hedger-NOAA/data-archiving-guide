@@ -1,9 +1,12 @@
 title: PIFSC Data Archiving Guide
-description: A guide to data archiving at NOAA PIFSC.
+description: A guide to data archiving at NOAA PIFSC
+theme: just-the-docs
 url: https://brighton-hedger-noaa.github.io
 baseurl: /data-archiving-guide
 
-# Set your custom color scheme
 color_scheme: pifsc
 
 nav_enabled: true
+
+aux_links:
+  Template Repository: https://github.com/brighton-hedger-noaa/data-archiving-guide
