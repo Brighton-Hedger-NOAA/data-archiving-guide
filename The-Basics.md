@@ -1,4 +1,3 @@
----
 layout: default
 title: The Basics - Key Terms
 nav_order: 2
@@ -9,7 +8,6 @@ nav_order: 2
 Understanding these core concepts is the first step to a successful data archive.
 
 ---
-
 <div>
     <div style="padding-bottom: 1em; border-bottom: 1px solid #e5e5e5;">
         <h3 style="margin-bottom: 0.25rem;"><a href="https://www.ngdc.noaa.gov/parr.html" target="_blank">PARR (Public Access to Research Results)</a></h3>
