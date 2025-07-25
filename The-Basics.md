@@ -1,3 +1,4 @@
+---
 layout: default
 title: The Basics - Key Terms
 nav_order: 2
