@@ -1,29 +1,18 @@
 ---
-layout: home
-title: Home
+layout: default
+title: Welcome to the ESD ARP Data Archiving Guide!
 nav_order: 1
 ---
 
-# PIFSC Data Archiving Guide
+This guide provides a step-by-step walkthrough of the entire data archiving process.
 
-This guide is the central resource for data management ESD ARP Data Archiving 
+### How to Use This Site
 
-<a href="{{ '/docs/The-Archive-Workflow.md' | relative_url }}" class="btn btn-primary fs-5 mb-4 mb-md-0">Start the Workflow</a>
-<a href="{{ '/docs/The-Basics.md' | relative_url }}" class="btn fs-5 mb-4 mb-md-0">Review Key Terms</a>
+* **To follow the full process sequentially**, click the "Begin Workflow" button below. Each step will have a "Next Step" button at the bottom to guide you.
+* **To jump to a specific topic**, use the navigation menu on the left sidebar.
 
-<a href="{{ '/docs/The-Archive-Workflow.md' | relative_url }}" class="btn btn-primary fs-5 mb-4 mb-md-0">Start the Workflow</a>
-<a href="{{ '/docs/The-Basics.md' | relative_url }}" class="btn fs-5 mb-4 mb-md-0">Review Key Terms</a>
-
----
-## Core Topics
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem;">
-  <div style="border: 1px solid #ddd; border-radius: 5px; padding: 1.5rem;">
-    <h3><a href="{{ '/docs/The-Basics.md' | relative_url }}">The Basics: Key Terms</a></h3>
-    <p>Understand the core concepts and systems used in data archiving.</p>
-  </div>
-  <div style="border: 1px solid #ddd; border-radius: 5px; padding: 1.5rem;">
-    <h3><a href="{{ '/docs/The-Archive-Workflow.md' | relative_url }}">The Archive Workflow</a></h3>
-    <p>A step-by-step guide to the entire process, from planning to submission.</p>
+<a href="{{ '/docs/Step-1-Planning.md' | relative_url }}" class="btn btn-primary fs-5 mb-4 mb-md-0">
+  Begin Workflow: Step 1 &raquo;
+</a>
   </div>
 </div>
