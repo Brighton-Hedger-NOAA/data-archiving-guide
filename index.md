@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_to: /docs/Home-Page.md
+redirect_to: /docs/
 ---
