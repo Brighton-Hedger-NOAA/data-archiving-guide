@@ -5,3 +5,5 @@ baseurl: /data-archiving-guide
 
 # Set your custom color scheme
 color_scheme: pifsc
+
+nav_enabled: true
