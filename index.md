@@ -17,6 +17,6 @@ This guide provides a step-by-step walkthrough of the entire data archiving proc
 <a href="{{ '/docs/The-Basics.html' | relative_url }}" class="btn btn-custom fs-5 mb-4 mb-md-0">
   Get Oriented
 </a>
-<a href="{{ '/docs/Step-1-Planning.html' | relative_url }}" class="btn btn-primary fs-5 mb-4 mb-md-0">
+<a href="{{ '/docs/Step-1-Planning.html' | relative_url }}" class="btn btn-custom fs-5 mb-4 mb-md-0">
   Get Started 
 </a>
