@@ -1,0 +1,12 @@
+// Custom button style
+.btn-custom {
+  background-color: #8DDCDC;
+  color: #264079; // Using your dark blue for the text for good contrast
+  border-color: #8DDCDC;
+
+  &:hover {
+    background-color: #79c8c8; // A slightly darker shade for hover
+    color: #264079;
+    border-color: #79c8c8;
+  }
+}
