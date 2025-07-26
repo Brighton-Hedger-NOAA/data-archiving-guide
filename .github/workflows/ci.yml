@@ -8,6 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -16,11 +17,13 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-          bundler-cache: true
-          cache-version: 0
+          bundler-cache: false  # Disable bundler cache to prevent stale lockfile issues
 
-      - name: Disable frozen mode
-        run: bundle config set frozen 'false'
+      - name: Remove old Gemfile.lock
+        run: rm -f Gemfile.lock
+
+      - name: Install dependencies clean
+        run: bundle install
 
       - name: Build with Jekyll
         run: bundle exec jekyll build
