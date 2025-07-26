@@ -81,7 +81,7 @@ callouts:
 # -----------------------------------------------------------------------------
 
 # The theme we are using
-theme: just-the-docs
+remote theme: just-the-docs/just-the-docs
 
 # List of plugins
 plugins:
