@@ -12,9 +12,9 @@ nav_order: 1
 
 ## Action Items
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] first item
+- [ ] second item
+- [ ] thrid item
 
 ---
 
