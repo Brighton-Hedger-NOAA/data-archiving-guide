@@ -54,11 +54,11 @@ back_to_top_text: "Back to top"
 footer_content: "Questions? Reach out to the Data Services Team!"
 
 # Show "Edit this page on GitHub" link in the footer
-gh_edit_link: true
-gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/brighton-hedger-noaa/data-archiving-guide"
-gh_edit_branch: "main"
-gh_edit_view_mode: "tree"
+#gh_edit_link: true
+#gh_edit_link_text: "Edit this page on GitHub"
+#gh_edit_repository: "https://github.com/brighton-hedger-noaa/data-archiving-guide"
+#gh_edit_branch: "main"
+#gh_edit_view_mode: "tree"
 
 # -----------------------------------------------------------------------------
 # Color Scheme & Callouts
