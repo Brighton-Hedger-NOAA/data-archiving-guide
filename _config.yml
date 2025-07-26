@@ -51,7 +51,7 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 # Custom footer text
-footer_content: "Maintained by the PIFSC Data Services Team. Distributed by an MIT license."
+footer_content: "Questions? Reach out to the Data Services Team!"
 
 # Show "Edit this page on GitHub" link in the footer
 gh_edit_link: true
