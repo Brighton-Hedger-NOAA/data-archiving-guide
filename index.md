@@ -14,9 +14,9 @@ This guide provides a step-by-step walkthrough of the entire data archiving proc
 * **Ready to begin?** Click "Get Started" to jump directly to Step 1 of the workflow.
 * **Looking for something specific?** Use the navigation menu on the left.
 
-<a href="{{ '/docs/The-Basics.md' | relative_url }}" class="btn btn-custom fs-5 mb-4 mb-md-0">
+<a href="{{ '/docs/The-Basics.html' | relative_url }}" class="btn btn-custom fs-5 mb-4 mb-md-0">
   Get Oriented
 </a>
-<a href="{{ '/docs/Step-1-Planning.md' | relative_url }}" class="btn btn-primary fs-5 mb-4 mb-md-0">
-  Get Started &raquo;
+<a href="{{ '/docs/Step-1-Planning.html' | relative_url }}" class="btn btn-primary fs-5 mb-4 mb-md-0">
+  Get Started 
 </a>
