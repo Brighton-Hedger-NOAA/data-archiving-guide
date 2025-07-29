@@ -28,7 +28,7 @@ Below are some useful tools that can make the archiving process easier and more 
   <div class="card">
     <h3><a href="{{ '/docs/Clear-Thumbs-Database-Tool.html' | relative_url }}">Clear Thumbs Database Tool</a></h3>
     <p>Removes hidden thumbnail database files from directories.</p>
-    <p><a href="https://github.com/MichaelAkridge-NOAA/archive-toolbox/tree/main/toolbox/desktop/thumbstool.exe" target="_blank">View on GitHub</a></p>
+    <p><a href="https://github.com/MichaelAkridge-NOAA/archive-toolbox/tree/main/toolbox/desktop/thumbstool.exe">Download</a></p>
   </div>
 
   <div class="card">
