@@ -16,31 +16,37 @@ Below are some useful tools that can make the archiving process easier and more 
   <div class="card">
     <h3><a href="{{ '/docs/Folder-Stats-Tool.html' | relative_url}}">Folder Stats Tool</a></h3>
     <p>Retrieves total sizes of folders.</p>
+    <p>[Download](https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/folderstats.exe)
   </div>
 
   <div class="card">
     <h3><a href="{{ '/docs/Archive-Manifest-File-Tool.html' | relative_url}}">Archive Manifest File Tool</a></h3>
     <p>Create a manifest of all files for archiving.</p>
+    <p>[Download](https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/archivemanifesttool.exe)
   </div>
 
   <div class="card">
   <h3><a href="{{ '/docs/Clear-Thumbs-Database-Tool.html' | relative_url}}">Clear Thumbs Database Tool</a></h3>
     <p>Remove hidden thumbnail cache files (Thumbs.db).</p>
+    <p>[Download](https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/thumbsdatabasetool.exe)
   </div>
 
   <div class="card">
     <h3><a href="{{ '/docs/Archive-File-Copy-Tool.html' | relative_url}}">File Copy Tool</a></h3>
     <p>Copy large batches of files with added reliability.</p>
+    <p>[Download](https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/filecopytool.exe)
   </div>
 
   <div class="card">
     <h3><a href="{{ '/docs/Garmin-GPS-File-Converter-Tool.html' | relative_url}}">Garmin GPS File Converter Tool</a></h3>
     <p>Convert Garmin GPS files to standard GPX format.</p>
+    <p>[Download](https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/gpstool.exe)
   </div>
 
   <div class="card">
     <h3><a href="{{ '/docs/Heic-Heif-Converter-Tool.html' | relative_url}}">Heic Heif Converter Tool</a></h3>
     <p>Convert HEIC/HEIF images to more common formats like JPG.</p>
+    <p>[Download](https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/heicheiftool.exe)
   </div>
 
 
