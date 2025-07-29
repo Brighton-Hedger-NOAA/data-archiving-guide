@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Basics - Key Terms
+title: Special Cases Like Imagery or Code
 nav_order: 4 
 ---
 
