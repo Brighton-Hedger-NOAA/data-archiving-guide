@@ -103,3 +103,8 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+just_the_docs:
+  custom_css:
+    - /assets/css/custom.css
+
