@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Basics - Key Terms
-nav_order: 1
+nav_order: 2
 ---
 
 # The Basics: Key Terms & Systems
