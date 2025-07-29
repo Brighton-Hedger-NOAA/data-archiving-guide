@@ -22,7 +22,7 @@ Below are some useful tools that can make the archiving process easier and more 
   <div class="card">
     <h3><a href="{{ '/docs/Archive-Manifest-File-Tool.html' | relative_url}}">Archive Manifest File Tool</a></h3>
     <p>Create a manifest of all files for archiving.</p>
-    <p><a href="{{ 'https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/archivemanifesttool.exe' }}">Download</p>
+    <a href="{{ 'https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/archivemanifesttool.exe' }}">Download</p>
   </div>
 
   <div class="card">
