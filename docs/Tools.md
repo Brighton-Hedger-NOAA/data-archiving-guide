@@ -2,6 +2,7 @@
 layout: default
 title: Archiving Tools
 parent: Step 2 - Prep and QC Your Data
+has_children: true
 nav_order: 1
 ---
 
