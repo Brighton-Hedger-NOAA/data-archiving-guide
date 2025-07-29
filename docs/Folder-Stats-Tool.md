@@ -23,14 +23,12 @@ The Folder Stats Tool scans a selected directory and creates a CSV file that rep
 
 1. Download the [folderstatstool.exe](https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/folderstatstool.exe)
 2. Double click the program to run (if needed right-click the file → **Properties** → Check **Unblock**)
-   <img width="320" height="400" alt="image" src="https://github.com/user-attachments/assets/fc2b8454-eda8-49ab-bdf1-f6a1f6614c81" /><img width="320" height="63" alt="image" src="https://github.com/user-attachments/assets/d40313d7-b580-4587-9784-1aa430194b0f" />
+   <img width="320" height="400" alt="image" src="https://github.com/user-attachments/assets/fc2b8454-eda8-49ab-bdf1-f6a1f6614c81" />
 3. Click **Browse** and select the folder you want to scan
-   <img width="360" height="315" alt="image" src="https://github.com/user-attachments/assets/769cbe91-1cf6-4643-83f2-cb91b40b1b40" />
-   <img width="470" height="325" alt="image" src="https://github.com/user-attachments/assets/886ca35e-b68a-4faf-8451-624cb88858c5" />
+   <img width="360" height="315" alt="image" src="https://github.com/user-attachments/assets/769cbe91-1cf6-4643-83f2-cb91b40b1b40" /><img width="470" height="325" alt="image" src="https://github.com/user-attachments/assets/886ca35e-b68a-4faf-8451-624cb88858c5" />
 4. Click **Start**
 5. Wait for the tool to finish scanning — a status message will appear
-   <img width="355" height="310" alt="image" src="https://github.com/user-attachments/assets/fb74df27-609c-4f1c-aae6-632c656401b2" />
-   <img width="355" height="315" alt="image" src="https://github.com/user-attachments/assets/95434f10-1fa0-4be1-97a8-a3fb97a5000f" />
+   <img width="355" height="310" alt="image" src="https://github.com/user-attachments/assets/fb74df27-609c-4f1c-aae6-632c656401b2" /><img width="355" height="315" alt="image" src="https://github.com/user-attachments/assets/95434f10-1fa0-4be1-97a8-a3fb97a5000f" />
 
 
 
