@@ -29,7 +29,7 @@ nav_order: 1
   * [Deeper Explanation of Toos and Uses](https://github.com/MichaelAkridge-NOAA/archive-toolbox/blob/main/README.md)
 
 ---
-<a href="{{ '/docs/Step-3-Register-Data-in-InPort' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+<a href="{{ '/docs/Step-3-Register-Data-in-InPort.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
   Next Step: Register Your Data in InPort
 </a>
 
