@@ -6,7 +6,7 @@ nav_order: 1
 ---
 ## Folder Stats Tool
 
-The Folder Stats Tool scans a selected directory and creates a CSV file that reports the size and number of files in each subfolder. It’s a quick way to estimate archive size or prep data for cloud upload.
+The Folder Stats Tool scans a selected directory and creates a CSV file that reports the size of each subfolder. It’s a quick way to estimate archive size or prep data for cloud upload.
 
 ---
 
@@ -50,5 +50,6 @@ The Folder Stats Tool scans a selected directory and creates a CSV file that rep
 
 <a href="{{ '/docs/Tools' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
   Back to All Tools
-<a href="{{ '/docs/Tools' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+   
+<a href="{{ '/docs/Register-Data-in-InPort' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
   Next Step: Register Your Data in InPort
