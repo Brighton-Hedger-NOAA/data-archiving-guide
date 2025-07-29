@@ -11,96 +11,59 @@ A Data Management Plan outlines how your project’s data will be collected, des
 
 ### Key Elements to Cover
 
-<div class="card-grid">
+<div class="grid grid-cols-2 gap-6">
 
-<div class="card">
-<h3>Project Information</h3>
+<div class="bg-light border rounded p-4">
+<h4>Project Summary</h4>
 <ul>
-  <li>Brief description of the project</li>
-  <li>Organizations involved</li>
+  <li>Brief description of the project and objectives</li>
+  <li>List of data types and expected outputs</li>
+  <li>Key partners or collaborating groups</li>
 </ul>
 </div>
 
-<div class="card">
-<h3>Description of the Data</h3>
+<div class="bg-light border rounded p-4">
+<h4>Data Collection Methods</h4>
 <ul>
-  <li>Type(s) of data collected (e.g., tabular, imagery, video)</li>
-  <li>Collection methods and standards used</li>
-  <li>Temporal and geographic coverage</li>
-  <li>File formats, metadata, and naming conventions</li>
+  <li>How, when, and where data are collected</li>
+  <li>Survey tools, apps, or instruments used</li>
+  <li>Protocols and standard operating procedures</li>
 </ul>
 </div>
 
-<div class="card">
-<h3>Storage and Security</h3>
+<div class="bg-light border rounded p-4">
+<h4>Data Organization</h4>
 <ul>
-  <li>Where the data will be stored</li>
-  <li>How it will be backed up and protected</li>
+  <li>Folder structures and naming conventions</li>
+  <li>Tracking spreadsheets or logs</li>
+  <li>Use of local vs. cloud storage</li>
 </ul>
 </div>
 
-<div class="card">
-<h3>Access and Sharing</h3>
+<div class="bg-light border rounded p-4">
+<h4>Metadata & Site Info</h4>
 <ul>
-  <li>How and when data will be made available</li>
-  <li>Limitations on access</li>
+  <li>Required metadata standards (e.g. ISO 19115)</li>
+  <li>Tools or templates used for metadata</li>
+  <li>Plans for site-level metadata entry</li>
 </ul>
 </div>
 
-<div class="card">
-<h3>Metadata & Archiving</h3>
+<div class="bg-light border rounded p-4">
+<h4>Data Storage & Backup</h4>
 <ul>
-  <li>Metadata standards and tools</li>
-  <li>Long-term preservation plans</li>
+  <li>Where the data are stored (e.g., external drives, network)</li>
+  <li>Backup frequency and tools</li>
+  <li>Contingency planning and data security</li>
 </ul>
 </div>
 
-<div class="card">
-<h3>Roles & Resources</h3>
+<div class="bg-light border rounded p-4">
+<h4>Data Access & Sharing</h4>
 <ul>
-  <li>Who's responsible for each part</li>
-  <li>Budget and resources allocated</li>
-</ul>
-</div>
+  <li>Whether and how the data will be publicly available</li>
+  <li>Any limitations or w
 
-</div>
-
-
-
-
-## Key Elements to Cover
-
-#### Project Information
-- Brief description of the project
-- Organizations involved
-
-#### Description of the Data
-- Type(s) of data collected (e.g., tabular, imagery, video)
-- Collection methods and standards used
-- Temporal and geographic coverage
-- File formats, metadata, and naming conventions
-
-#### Storage and Security
-- Where the data will be stored
-- How it will be backed up and protected
-- Access control or privacy considerations
-
-#### Metadata
-- Metadata standards used (e.g., Site Naming)
-- Tools or processes for creating and maintaining metadata
-- Hosting location for metadata
-
-#### Access and Sharing
-- Whether and how data will be made publicly available
-- Any limitations on access and justification
-
-#### Preservation and Archiving
-- Long-term archive location (e.g., NCEI, Google Cloud)
-- How data will be prepared for archiving
-- Measures to prevent accidental loss of data
-
-#### Roles and Responsibilities
-- Names or roles responsible for data management and archiving
 
 
 ---
