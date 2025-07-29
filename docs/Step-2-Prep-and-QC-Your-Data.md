@@ -2,7 +2,7 @@
 layout: default
 title: Step 2 - Prep and QC Your Data
 parent: The Archive Workflow
-nav_order: 1
+nav_order: 2
 ---
 
 # Step 2: Prep and QC Your Data
