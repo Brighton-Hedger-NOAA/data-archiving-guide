@@ -24,6 +24,6 @@ With your data prepped and your InPort record done, it's time to build the packa
   *  [Send2NCEI Tool](https://www.ncei.noaa.gov/archive/send2ncei/)
 
 ---
-<a href="{{ '/docs/Special-Cases-Like-Imagery-and-Code' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+<a href="{{ '/docs/Special-Cases-Like-Imagery-and-Code.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
   Optional Step: Special Cases Like Imagery and Code
 </a>
