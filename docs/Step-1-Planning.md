@@ -23,6 +23,9 @@ Good archiving starts here! Your goal in this step is to map out your project's 
 - [ ] Identify what specific data and documents will need to be archived.
 
 ---
+<a href="{{ '/docs/Step-1-Planning/Data-Management-Plan.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+  Make a Data Management Plan
+</a>
 <a href="{{ '/docs/Step-2-Prep-and-QC-Your-Data.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
-  Next Step: Prep and QC Your Data
+  Skip to Step 2: Prep and QC Your Data
 </a>
