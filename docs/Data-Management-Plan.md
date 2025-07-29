@@ -88,3 +88,7 @@ A Data Management Plan outlines how your project’s data will be collected, des
 <hr>
 
 <p><strong>📄 <a href="https://your-template-link.com" target="_blank">Download the Data Management Plan Template</a></strong></p>
+
+</a> <a href="{{ '/docs/Step-2-Prep-and-QC-Your-Data.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+  Next Step: Prep and QC Your Data
+</a>
