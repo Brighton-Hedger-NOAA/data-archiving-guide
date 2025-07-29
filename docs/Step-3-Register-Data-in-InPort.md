@@ -2,7 +2,7 @@
 layout: default
 title: Step 3 - Register Data in InPort
 parent: The Archive Workflow
-nav_order: 1
+nav_order: 3
 ---
 
 # Step 3: Register Data in InPort
