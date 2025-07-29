@@ -11,21 +11,19 @@ A Data Management Plan outlines how your project’s data will be collected, des
 
 ### Key Elements to Cover
 
-<h2>What to Include in a Data Management Plan</h2>
 
-<div class="grid grid-cols-2 gap-6">
+<div class="card-grid">
 
-  <div class="bg-light border rounded p-4">
-    <h4>Project Summary</h4>
+  <div class="card">
+    <h3>Project Summary</h3>
     <ul>
       <li>Overview of project goals and data types</li>
       <li>Participating teams or organizations</li>
-      <li>Relevant identifiers (e.g., InPort ID)</li>
     </ul>
   </div>
 
-  <div class="bg-light border rounded p-4">
-    <h4>Data Collection Methods</h4>
+  <div class="card">
+    <h3>Data Collection Methods</h3>
     <ul>
       <li>Collection tools, equipment, or apps used</li>
       <li>Survey protocols or SOPs</li>
@@ -33,12 +31,12 @@ A Data Management Plan outlines how your project’s data will be collected, des
     </ul>
   </div>
 
-  <div class="bg-light border rounded p-4">
-    <h4>Data Organization</h4>
+  <div class="card">
+    <h3>Data Organization</h3>
     <ul>
       <li>Folder structure and naming conventions</li>
       <li>Tracking spreadsheets or sheets</li>
-      <li>File formats and versioning</li>
+      <li>File formating</li>
     </ul>
   </div>
 
@@ -51,8 +49,8 @@ A Data Management Plan outlines how your project’s data will be collected, des
     </ul>
   </div>
 
-  <div class="bg-light border rounded p-4">
-    <h4>Storage & Backup</h4>
+  <div class="card">
+    <h3>Storage & Backup</h3>
     <ul>
       <li>Where data are stored (local/cloud)</li>
       <li>Backup strategy and frequency</li>
@@ -60,29 +58,27 @@ A Data Management Plan outlines how your project’s data will be collected, des
     </ul>
   </div>
 
-  <div class="bg-light border rounded p-4">
-    <h4>Access & Sharing</h4>
+  <div class="card">
+    <h3>Access & Sharing</h3>
     <ul>
       <li>Plans for public access</li>
-      <li>Any access limitations or waivers</li>
-      <li>Expected release timelines</li>
+      <li>Any access limitations (e.g., Publication)</li>
     </ul>
   </div>
 
-  <div class="bg-light border rounded p-4">
-    <h4>Archiving</h4>
+  <div class="card">
+    <h3>Archiving</h3>
     <ul>
-      <li>Archive destination (e.g., NCEI)</li>
+      <li>Archive destination (e.g., NCEI or Google Cloud)</li>
       <li>What will be archived and how</li>
       <li>File naming, structure, and compliance</li>
     </ul>
   </div>
 
-  <div class="bg-light border rounded p-4">
-    <h4>Roles & Responsibilities</h4>
+  <div class="card">
+    <h3>Roles & Responsibilities</h3>
     <ul>
-      <li>DMP point of contact</li>
-      <li>Metadata and archive prep lead</li>
+      <li>Data Archivist Point of Contact</li>
       <li>Data management responsibilities</li>
     </ul>
   </div>
