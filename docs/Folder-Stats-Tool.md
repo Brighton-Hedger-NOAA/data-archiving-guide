@@ -21,7 +21,7 @@ The Folder Stats Tool scans a selected directory and creates a CSV file that rep
 
 ### How to Use It
 
-1. Download the [folderstats.exe](https://Brighton-Hedger-NOAA/data-archiving-guide/Tools/folderstats.exe)
+1. Download the [folderstats.exe](https://Brighton-Hedger-NOAA/data-archiving-guide/tools/folderstats.exe)
 2. Double click the program to run (if needed right-click the file → **Properties** → Check **Unblock**)
    <img width="595" height="522" alt="image" src="https://github.com/user-attachments/assets/769cbe91-1cf6-4643-83f2-cb91b40b1b40" />
 3. Click **Browse** and select the folder you want to scan
