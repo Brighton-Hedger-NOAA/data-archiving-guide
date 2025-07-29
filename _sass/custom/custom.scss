@@ -40,4 +40,11 @@ main h1 {
   margin: 0.5rem 0 0;
 }
 
+.main-content {
+  max-width: 90% !important;  // You can also try 100% or a fixed px like 1200px
+  margin: 0 auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 
