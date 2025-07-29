@@ -16,7 +16,7 @@ Good archiving starts here! Your goal in this step is to map out your project's 
 
 ## Action Items
 
-- [ ] Schedule a meeting with someone from the Data Services Team (DST).- Fill out this [form](https://docs.google.com/forms/d/1gZIRLKOWRlLCdC-N8bZfzaPaut7TsZkJkWX7ycyalIc/viewform?edit_requested=true) or [email us](mailto:nmfs.pic.credinfo@noaa.gov?subject=Data%20Archiving%20Question)!
+- [ ] Schedule a meeting with someone from the Data Services Team. - Fill out this [form](https://docs.google.com/forms/d/1gZIRLKOWRlLCdC-N8bZfzaPaut7TsZkJkWX7ycyalIc/viewform?edit_requested=true) or [email us](mailto:nmfs.pic.credinfo@noaa.gov?subject=Data%20Archiving%20Question)!
 - [ ] Discuss the project’s data collection strategy and timeline.
 - [ ] Identify what specific data and documents will need to be archived.
 - [ ] Complete a **Data Management Plan**
