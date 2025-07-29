@@ -19,34 +19,34 @@ Below are some useful tools that can make the archiving process easier and more 
     <p><a href="https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/folderstatstool.exe">Download</a></p>
   </div>
 
+   <div class="card">
+    <h3><a href="{{ '/docs/File-Copy-Tool.html' | relative_url }}">File Copy Tool</a></h3>
+    <p>Safely copies files for archival with logging support.</p>
+    <p><a href="https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/filecopytool.exe">Download Tool</a></p>
+  </div>
+
   <div class="card">
     <h3><a href="{{ '/docs/Archive-Manifest-File-Tool.html' | relative_url }}">Archive Manifest File Tool</a></h3>
     <p>Generates manifest files to track archived content.</p>
-    <p><a href="https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/archivemanifesttool.exe">Download</a></p>
+    <p><a href="https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/archivemanifesttool.exe">Download Tool</a></p>
   </div>
 
   <div class="card">
     <h3><a href="{{ '/docs/Clear-Thumbs-Database-Tool.html' | relative_url }}">Clear Thumbs Database Tool</a></h3>
     <p>Removes hidden thumbnail database files from directories.</p>
-    <p><a href="https://github.com/MichaelAkridge-NOAA/archive-toolbox/tree/main/toolbox/desktop/thumbstool.exe">Download</a></p>
-  </div>
-
-  <div class="card">
-    <h3><a href="{{ '/docs/File-Copy-Tool.html' | relative_url }}">File Copy Tool</a></h3>
-    <p>Safely copies files for archival with logging support.</p>
-    <p><a href="https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/filecopytool.exe">Download</a></p>
+    <p><a href="https://github.com/MichaelAkridge-NOAA/archive-toolbox/tree/main/toolbox/desktop/thumbstool.exe">Download Tool</a></p>
   </div>
 
   <div class="card">
     <h3><a href="{{ '/docs/Garmin-GPS-File-Converter.html' | relative_url }}">Garmin GPS File Converter</a></h3>
     <p>Converts .gpx files from Garmin devices into archive-ready formats.</p>
-    <p><a href="https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/gpsconvertertool.exe">Download</a></p>
+    <p><a href="https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/gpsconvertertool.exe">Download Tool</a></p>
   </div>
 
   <div class="card">
     <h3><a href="{{ '/docs/Heic-Heif-Converter-Tool.html' | relative_url }}">Heic/Heif Converter Tool</a></h3>
     <p>Converts HEIC/HEIF images into more compatible file types.</p>
-    <p><a href="https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/heicconvertertool.exe">Download</a></p>
+    <p><a href="https://Brighton-Hedger-NOAA.github.io/data-archiving-guide/tools/heicconvertertool.exe">Download Tool</a></p>
   </div>
 
 </div>
