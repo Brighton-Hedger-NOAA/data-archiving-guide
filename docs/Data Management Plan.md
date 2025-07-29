@@ -11,6 +11,65 @@ A Data Management Plan outlines how your project’s data will be collected, des
 
 ### Key Elements to Cover
 
+<div class="card-grid">
+
+<div class="card">
+<h3>Project Information</h3>
+<ul>
+  <li>Brief description of the project</li>
+  <li>Organizations involved</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Description of the Data</h3>
+<ul>
+  <li>Type(s) of data collected (e.g., tabular, imagery, video)</li>
+  <li>Collection methods and standards used</li>
+  <li>Temporal and geographic coverage</li>
+  <li>File formats, metadata, and naming conventions</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Storage and Security</h3>
+<ul>
+  <li>Where the data will be stored</li>
+  <li>How it will be backed up and protected</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Access and Sharing</h3>
+<ul>
+  <li>How and when data will be made available</li>
+  <li>Limitations on access</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Metadata & Archiving</h3>
+<ul>
+  <li>Metadata standards and tools</li>
+  <li>Long-term preservation plans</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Roles & Resources</h3>
+<ul>
+  <li>Who's responsible for each part</li>
+  <li>Budget and resources allocated</li>
+</ul>
+</div>
+
+</div>
+
+
+
+
+## Key Elements to Cover
+
 #### Project Information
 - Brief description of the project
 - Organizations involved
