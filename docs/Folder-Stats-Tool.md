@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Folder Stats Tool
-parent: Archiving-Tools
+parent: Archiving Tools
 nav_order: 1
 ---
 ## Folder Stats Tool
