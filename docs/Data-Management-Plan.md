@@ -9,7 +9,7 @@ nav_order: 1
 
 A Data Management Plan outlines how your project’s data will be collected, described, stored, shared, and preserved. It ensures data are handled responsibly and remain accessible and usable over time.
 
-### Key Elements to Cover
+### Key Elements to Cover:
 
 
 <div class="card-grid">
@@ -40,8 +40,8 @@ A Data Management Plan outlines how your project’s data will be collected, des
     </ul>
   </div>
 
-  <div class="bg-light border rounded p-4">
-    <h4>Metadata & Site Info</h4>
+  <div class="card">
+    <h3>Metadata & Site Info</h3>
     <ul>
       <li>Metadata standards (e.g., ISO 19115)</li>
       <li>Site visit logs and GPS data</li>
