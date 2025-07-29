@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Step 4 - Build the S2N Submission Package
+has_children: true
 nav_order: 1
 ---
 
