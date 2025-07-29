@@ -7,7 +7,8 @@ nav_order: 3
 
 # Step 3: Register Data in InPort
 
-In order to make data accessible and digestible  you have to describe it well. This is done by creating a metadata record in **InPort**. 
+In order to make data accessible and digestible  you have to describe it well. This is done by creating a metadata record in **InPort**.
+
 ---
 
 ## Action Items
