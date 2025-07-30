@@ -41,16 +41,32 @@ main h1 {
 }
 
 
+
+
+.site {
+  display: flex;
+  flex-direction: row;
+}
+
 .side-bar {
   @include mq(lg) {
     width: $nav-width;
     flex-shrink: 0;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    overflow-y: auto;
+    background: $sidebar-background-color;
+    z-index: 10;
   }
 }
 
 .main {
   @include mq(lg) {
     margin-left: $nav-width;
-    width: 100%;
+    width: calc(100% - #{$nav-width});
+    max-width: none;
   }
 }
+
