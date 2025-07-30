@@ -41,12 +41,10 @@ main h1 {
 }
 
 
-.main-content {
-  max-width: 100% !important; // Try 100% for full width
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1rem;
-  padding-right: 1rem;
+.side-bar {
+  @include mq(lg) {
+    width: calc((70% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
+  }
 }
 
 
