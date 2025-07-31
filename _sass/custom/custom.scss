@@ -64,7 +64,7 @@ main h1 {
 .main {
   @include mq(lg) {
     margin-left: 10px;
-    width: 100%;
+    width: calc(100% - #{$nav-width});
     max-width: none;
   }
 }
