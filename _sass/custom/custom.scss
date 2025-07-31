@@ -65,7 +65,7 @@ main h1 {
   top: 0 !important;
   bottom: 0 !important;
   left: 0 !important;
-  width: 250px !important; /* or whatever $nav-width is */
+  width: $nav-width-md;
   z-index: 10 !important;
   overflow-y: auto !important;
 }
