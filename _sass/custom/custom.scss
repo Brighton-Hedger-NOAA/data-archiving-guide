@@ -40,19 +40,26 @@ main h1 {
   margin: 0.5rem 0 0;
 }
 
-/* Completely override Just the Docs layout constraints */
 .main,
+.main-content-wrap,
 .page,
-#main-content,
-.main-content-wrap {
+#main-content {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 2rem !important;
+
   @include mq(lg) {
-    margin-left: $nav-width !important;
-    max-width: none !important;
     width: calc(100% - #{$nav-width}) !important;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    margin-left: $nav-width !important;
+  }
+
+  @include mq(md) {
+    width: calc(100% - #{$nav-width-md}) !important;
+    margin-left: $nav-width-md !important;
   }
 }
+
 
 
 .site {
@@ -65,9 +72,23 @@ main h1 {
   top: 0 !important;
   bottom: 0 !important;
   left: 0 !important;
-  width: $nav-width-md;
   z-index: 10 !important;
   overflow-y: auto !important;
+
+  @include mq(lg) {
+    width: $nav-width !important;
+  }
+
+  @include mq(md) {
+    width: $nav-width-md !important;
+  }
+
+  // Optional: if you want it to collapse/hide on small screens
+  @include mq(sm) {
+    position: relative !important;
+    width: 100% !important;
+    z-index: auto !important;
+  }
 }
 
 body {
