@@ -63,8 +63,8 @@ main h1 {
 
 .main {
   @include mq(lg) {
-    left: 0;
-    width: 100%;
+    margin-left: $nav-width;         // Keeps it beside the sidebar
+    width: calc(100% - #{$nav-width}); // Prevents overflow to the right
     max-width: none;
   }
 }
