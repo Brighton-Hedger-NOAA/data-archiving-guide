@@ -49,13 +49,13 @@ main h1 {
   padding: 0 2rem !important;
 
   @include mq(md) {
-    width: calc(100% - 200px) !important;
-    margin-left: 200px !important;
+    width: 90% !important;
+    margin-left: 100px !important;
   }
 
   @include mq(lg) {
-    width: calc(100% - 250px) !important;
-    margin-left: 250px !important;
+    width: 90% !important;
+    margin-left: 125px !important;
   }
 }
 
@@ -75,11 +75,11 @@ main h1 {
   overflow-y: auto !important;
 
   @include mq(lg) {
-    width: 250px !important;
+    width: 125px !important;
   }
 
   @include mq(md) {
-    width: 200px !important;
+    width: 100px !important;
   }
 
  
