@@ -50,13 +50,13 @@ main h1 {
   padding: 0 2rem !important;
 
   @include mq(lg) {
-    width: calc(100% - #{$nav-width}) !important;
-    margin-left: $nav-width !important;
+    width: 100% !important;
+    margin-left: 250px !important;
   }
 
   @include mq(md) {
-    width: calc(100% - #{$nav-width-md}) !important;
-    margin-left: $nav-width-md !important;
+    width: 100% !important;
+    margin-left: 200px !important;
   }
 }
 
