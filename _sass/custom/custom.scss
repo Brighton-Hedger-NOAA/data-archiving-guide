@@ -61,11 +61,13 @@ main h1 {
   }
 }
 
-.main {
+.main, .page, #main-content {
   @include mq(lg) {
-    margin-left: $nav-width;         // Keeps it beside the sidebar
-    width: calc(100% - #{$nav-width}); // Prevents overflow to the right
+    margin-left: $nav-width;
+    width: calc(100% - #{$nav-width});
     max-width: none;
+    padding-left: 0;
+    padding-right: 0;
+    box-sizing: border-box;
   }
 }
-
