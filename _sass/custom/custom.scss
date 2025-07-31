@@ -70,8 +70,17 @@ main h1 {
 
 .main {
   @include mq(lg) {
-    margin-left: $nav-width;
-    width: calc(100% - #{$nav-width});
+    margin-left: $nav-width !important;
+    max-width: none !important;
+    width: calc(100% - #{$nav-width}) !important;
+  }
+}
+
+.main-content-wrap {
+  @include mq(lg) {
+    max-width: none !important;
+    margin: 0 !important;
+    width: 100% !important;
     padding-left: 2rem;
     padding-right: 2rem;
     box-sizing: border-box;
