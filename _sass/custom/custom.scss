@@ -64,7 +64,7 @@ main h1 {
 .main {
   @include mq(lg) {
     margin: 10px;
-    width: 90%;
+    width: 125%;
     max-width: none;
   }
 }
