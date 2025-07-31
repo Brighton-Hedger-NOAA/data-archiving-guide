@@ -40,50 +40,32 @@ main h1 {
   margin: 0.5rem 0 0;
 }
 
-@media screen and (min-width: 50rem) {
-  .main,
-  .main-content-wrap,
-  #main-content {
-    max-width: 100% !important;
-    width: 100% !important;
-    margin-left: var(--nav-width, 250px) !important;
-    margin-right: 0 !important;
-    padding-left: 2rem !important;
-    padding-right: 2rem !important;
-  }
+/* Completely override Just the Docs layout constraints */
+.main,
+.main-content-wrap,
+.page,
+#main-content {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 2rem !important;
 }
-
 
 .site {
   display: flex !important;
   flex-direction: row !important;
-  overflow-x: hidden !important;
 }
 
 .side-bar {
-  @include mq(lg) {
-    width: $nav-width !important;
-    flex-shrink: 0 !important;
-    position: fixed !important;
-    top: 0 !important;
-    left: 0 !important;
-    bottom: 0 !important;
-    overflow-y: auto !important;
-    z-index: 10 !important;
-  }
+  position: fixed !important;
+  top: 0 !important;
+  bottom: 0 !important;
+  left: 0 !important;
+  width: 250px !important; /* or whatever $nav-width is */
+  z-index: 10 !important;
+  overflow-y: auto !important;
 }
 
-.main,
-.page,
-#main-content,
-.main-content-wrap {
-  @include mq(lg) {
-    margin-left: $nav-width !important;
-    max-width: none !important;
-    width: calc(100% - #{$nav-width}) !important;
-    padding-left: 2rem !important;
-    padding-right: 2rem !important;
-  }
+body {
+  overflow-x: hidden !important;
 }
-
-
