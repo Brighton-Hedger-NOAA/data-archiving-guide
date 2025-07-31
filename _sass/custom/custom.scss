@@ -61,7 +61,7 @@ main h1 {
   }
 }
 
-.main, .page, #main-content {
+.main {
   @include mq(lg) {
     margin-left: $nav-width;
     width: calc(100% - #{$nav-width});
@@ -71,3 +71,15 @@ main h1 {
     box-sizing: border-box;
   }
 }
+
+.page, #main-content {
+  @include mq(lg) {
+    margin-left: 0;
+    width: 100%;
+    max-width: none;
+    padding-left: 0;
+    padding-right: 0;
+    box-sizing: border-box;
+  }
+}
+
