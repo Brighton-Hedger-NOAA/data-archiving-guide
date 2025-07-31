@@ -44,19 +44,18 @@ main h1 {
 .main-content-wrap,
 .page,
 #main-content {
-  max-width: 100% !important;
-  width: 100% !important;
+  max-width: none !important;
   margin: 0 !important;
   padding: 0 2rem !important;
 
-  @include mq(lg) {
-    width: 100% !important;
-    margin-left: 250px !important;
+  @include mq(md) {
+    width: calc(100% - 200px) !important;
+    margin-left: 200px !important;
   }
 
-  @include mq(md) {
-    width: 100% !important;
-    margin-left: 200px !important;
+  @include mq(lg) {
+    width: calc(100% - 250px) !important;
+    margin-left: 250px !important;
   }
 }
 
