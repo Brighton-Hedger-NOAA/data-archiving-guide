@@ -75,19 +75,14 @@ main h1 {
   overflow-y: auto !important;
 
   @include mq(lg) {
-    width: $nav-width !important;
+    width: 250px !important;
   }
 
   @include mq(md) {
-    width: $nav-width-md !important;
+    width: 200px !important;
   }
 
-  // Optional: if you want it to collapse/hide on small screens
-  @include mq(sm) {
-    position: relative !important;
-    width: 100% !important;
-    z-index: auto !important;
-  }
+ 
 }
 
 body {
