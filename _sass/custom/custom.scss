@@ -42,14 +42,18 @@ main h1 {
 
 /* Completely override Just the Docs layout constraints */
 .main,
-.main-content-wrap,
 .page,
-#main-content {
-  max-width: 100% !important;
-  width: 100% !important;
-  margin: 0 !important;
-  padding: 0 2rem !important;
+#main-content,
+.main-content-wrap {
+  @include mq(lg) {
+    margin-left: $nav-width !important;
+    max-width: none !important;
+    width: calc(100% - #{$nav-width}) !important;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
 }
+
 
 .site {
   display: flex !important;
