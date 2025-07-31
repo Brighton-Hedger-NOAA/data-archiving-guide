@@ -59,22 +59,23 @@ main h1 {
   }
 }
 
+.page, #main-content {
+  @include mq(lg) {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+}
+
 .main {
   @include mq(lg) {
     margin-left: $nav-width;
     width: calc(100% - #{$nav-width});
-    padding: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
     box-sizing: border-box;
   }
 }
 
-.page, #main-content {
-  @include mq(lg) {
-    margin: 0;
-    width: 100%;
-    max-width: 100%;
-    padding: 0;
-    box-sizing: border-box;
-  }
-}
 
