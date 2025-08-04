@@ -1,11 +1,11 @@
 ---
 layout: default
-title: File Copy Tool
+title: Archive Manifest File Tool
 parent: Archiving Tools
-nav_order: 2
+nav_order: 3
 ---
 
-## File Copy Tool
+## Archive Manifest File Tool
 
 
 ---

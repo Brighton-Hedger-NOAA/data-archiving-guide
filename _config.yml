@@ -52,8 +52,8 @@ heading_anchors: true
 footer_content: "Questions? Reach out to the Data Services Team!"
 
 # "Back to top" link
-back_to_top: true
-back_to_top_text: "Back to top"
+back_to_top: false
+
 
 # Show "Edit this page on GitHub" link in the footer
 #gh_edit_link: true

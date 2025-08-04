@@ -1,11 +1,11 @@
 ---
 layout: default
-title: File Copy Tool
+title: Garmin GPS File Converter
 parent: Archiving Tools
-nav_order: 2
+nav_order: 5
 ---
 
-## File Copy Tool
+## Garmin GPS File Converter
 
 
 ---

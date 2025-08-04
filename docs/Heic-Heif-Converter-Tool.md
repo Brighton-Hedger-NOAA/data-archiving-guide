@@ -1,11 +1,11 @@
 ---
 layout: default
-title: File Copy Tool
+title: Heic Heif Converter Tool
 parent: Archiving Tools
-nav_order: 2
+nav_order: 6
 ---
 
-## File Copy Tool
+## Heic Heif Converter Tool
 
 
 ---

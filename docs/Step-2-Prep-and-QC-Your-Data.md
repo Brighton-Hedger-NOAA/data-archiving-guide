@@ -20,13 +20,13 @@ nav_order: 2
 
 ## Helpful Tools
 
-  * [Folder Stats Tool](https://github.com/MichaelAkridge-NOAA/archive-toolbox/blob/main/toolbox/desktop/folder-stats-tool/folderstats.exe)
-  * [Archive Manifest File Tool](https://github.com/MichaelAkridge-NOAA/archive-toolbox/blob/main/toolbox/desktop/archive-manifest-file-tool/mnftool_gui.exe)
-  * [Clear Thumbs Database Tool](https://github.com/MichaelAkridge-NOAA/archive-toolbox/tree/main/toolbox/desktop/clear-thumbs-db-files)
-  * [File Copy Tool](https://github.com/MichaelAkridge-NOAA/archive-toolbox/blob/main/toolbox/desktop/file-copy-tool/filecopy_tool.exe)
-  * [Garmin GPS File Converter Tool](https://github.com/MichaelAkridge-NOAA/archive-toolbox/blob/main/toolbox/desktop/garmin-gps-file-converter/gpxconverter_windows_standalone.exe)
-  * [Heic Heif Converter Tool](https://github.com/MichaelAkridge-NOAA/archive-toolbox/blob/main/toolbox/desktop/heic-heif-converter/heic_converter.exe)
-  * [Deeper Explanation of Toos and Uses](https://github.com/MichaelAkridge-NOAA/archive-toolbox/blob/main/README.md)
+* [Folder Stats Tool]({{ '/docs/Folder-Stats-Tool.html' | relative_url }})
+* [File Copy Tool]({{ '/docs/File-Copy-Tool.html' | relative_url }})
+* [Archive Manifest File Tool]({{ '/docs/Archive-Manifest-File-Tool.html' | relative_url }})
+* [Clear Thumbs Database Tool]({{ '/docs/Clear-Thumbs-Database-Tool.html' | relative_url }})
+* [Garmin GPS File Converter Tool]({{ '/docs/Garmin-GPS-File-Converter.html' | relative_url }})
+* [Heic Heif Converter Tool]({{ '/docs/Heic-Heif-Converter-Tool.html' | relative_url }})
+
 
 ---
 <a href="{{ '/docs/Step-3-Register-Data-in-InPort.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">

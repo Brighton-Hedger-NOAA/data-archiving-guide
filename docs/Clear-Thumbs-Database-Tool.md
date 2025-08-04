@@ -1,11 +1,11 @@
 ---
 layout: default
-title: File Copy Tool
+title: Clear Thumbs Database Tool
 parent: Archiving Tools
-nav_order: 2
+nav_order: 4
 ---
 
-## File Copy Tool
+## Clear Thumbs Database Tool
 
 
 ---
