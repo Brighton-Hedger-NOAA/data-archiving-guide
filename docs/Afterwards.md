@@ -32,7 +32,7 @@ nav_order: 9
 ---
 
 <center>
-<a href="{{ '/docs/Updates-and-Submission.html' | relative_url }}" class="btn btn-secondary fs-6 mb-4 mb-md-0">
+<a href="{{ '/docs/Updates&Submission.html' | relative_url }}" class="btn btn-secondary fs-6 mb-4 mb-md-0">
   ← Previous: Updates & Submission
 </a>
 </center>

@@ -37,7 +37,7 @@ This method is ideal for ongoing monitoring projects where new data is periodica
 ---
 <br>
 <center>
-<a href="{{ '/docs/archive-refresher-and-workshop/' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+<a href="{{ '/docs/Archive-Refresher&Workshop.html/' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
   ← Return to Workshop Home
 </a>
 </center>
