@@ -205,6 +205,10 @@ If starting from scratch or need some extra guidance, click <a href="{{ '/docs/D
 
 ---
 
-<center><a href="{{ '/docs/S2N-Prep.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
-  Proceed to S2N Prep
+<center>
+<a href="{{ '/docs/Data-Review.html' | relative_url }}" class="btn btn-secondary fs-6 mb-4 mb-md-0">
+  ← Previous: Data Review
+</a>
+<a href="{{ '/docs/S2N-Prep.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+  Next: S2N Prep →
 </a></center>

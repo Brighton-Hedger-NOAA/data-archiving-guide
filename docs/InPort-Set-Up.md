@@ -37,7 +37,11 @@ nav_order: 3
 
 ---
 
-<center><a href="{{ '/docs/Data-Review.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
-  Proceed to Dataset/Data Dictionary Review
+<center>
+<a href="{{ '/docs/Prepare-Materials.html' | relative_url }}" class="btn btn-secondary fs-6 mb-4 mb-md-0">
+  ← Previous: Prepare Materials
+</a>
+<a href="{{ '/docs/Data-Review.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+  Next: Data Review →
 
 

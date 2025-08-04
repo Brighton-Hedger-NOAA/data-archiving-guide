@@ -5,7 +5,7 @@ parent: Archive Refresher & Workshop
 nav_order: 2
 ---
 
-# Pull up your materials
+# Gather and Prepare Materials
 
 ### Before beginning the archiving process, you will need to locate and prepare three key items.
 
@@ -33,7 +33,11 @@ Click <a href="https://drive.google.com/drive/folders/1QxNAybnQApw_rs1DbCpy5Lbgx
 
 ---
 
-<center><a href="{{ '/docs/InPort-Set-Up.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
-  Proceed to InPort Set Up
+<center>
+<a href="{{ '/docs/Prep-Your-Data.html' | relative_url }}" class="btn btn-secondary fs-6 mb-4 mb-md-0">
+  ← Previous: Data Prep
+</a>
+<a href="{{ '/docs/InPort-Set-Up.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+Next: InPort Set Up →
 
 

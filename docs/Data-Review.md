@@ -33,6 +33,10 @@ nav_order: 4
 
 ---
 
-<center><a href="{{ '/docs/InPort-Metadata-Review.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
-  Proceed to InPort Metadata Review
+<center>
+<a href="{{ '/docs/InPort-Set-Up.html' | relative_url }}" class="btn btn-secondary fs-6 mb-4 mb-md-0">
+  ← Previous: Set Up InPort
+</a>
+<a href="{{ '/docs/InPort-Metadata-Review.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+  Next: InPort Metadata Review →
 </a></center>

@@ -54,5 +54,5 @@ Below are some useful tools that can make the archiving process easier and more 
 ---
 <a href="{{ '/docs/Tools' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
   Back to Step 2
-<a href="{{ '/docs/Register-Data-in-InPort' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+<a href="{{ '/docs/Step-3-Register-Data-in-InPort' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
   Next Step:Registering Your Data in InPort

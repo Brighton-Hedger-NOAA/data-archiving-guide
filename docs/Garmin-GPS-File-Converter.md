@@ -31,5 +31,5 @@ nav_order: 5
 <a href="{{ '/docs/Tools' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
   Back to All Tools
    
-<a href="{{ '/docs/Register-Data-in-InPort' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+<a href="{{ '/docs/Step-3-Register-Data-in-InPort' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
   Next Step: Register Your Data in InPort
