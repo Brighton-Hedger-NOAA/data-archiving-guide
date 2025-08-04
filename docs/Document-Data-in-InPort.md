@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Document Your Data in InPort
-parent: Archive Refresher & Workshop
+parent: n
 nav_order: 3
 ---
 # How to Document Your Data in InPort

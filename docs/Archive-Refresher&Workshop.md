@@ -17,8 +17,8 @@ nav_order: 3
 ## <center>Do You have your data organized and ready to use?</center>
 
 
-<center><a href="{{ '/docs/QC-Your-Data.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+<center><a href="{{ '/docs/Prepare-Materials' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
   Yes!
-</a> <a href="{{ '/docs/Prep-Your_Data.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+</a> <a href="{{ '/docs/Prep-Your-Data.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
   No
 </a></center>

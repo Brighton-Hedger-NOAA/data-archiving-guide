@@ -1,7 +1,7 @@
 ---
 layout: default
 title: QC Your Data
-parent: Archive Refresher & Workshop
+parent: n
 nav_order: 2
 ---
 <div style="display: flex; align-items: center; gap: 1rem;">
