@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Step 4 - Build the S2N Submission Package
-parent: The Archive Workflow
+parent: Full Archive Workflow
 nav_order: 4
 ---
 

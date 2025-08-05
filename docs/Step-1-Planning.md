@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Step 1 - Planning
-parent: The Archive Workflow
+parent: Full Archive Workflow
 has_children: true
 nav_order: 1
 ---

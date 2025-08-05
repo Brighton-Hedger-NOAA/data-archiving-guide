@@ -5,10 +5,10 @@ parent: Archive Refresher & Workshop
 nav_order: 5
 ---
 
-# InPort Metadata Record Review
-### This is the most detailed step in the process. The tabs in  <span style="color: #003366; font-weight: bold; background-color: #e6f2ff; border: 1px solid #b3d7ff; padding: 2px 6px; border-radius: 4px;">blue</span> indicate sections that typically require updates for this workflow. Click each tab to see the required actions.
+# Update InPort Metadata Record
+### This is for updating existing InPort metadata records with your additional data. The tabs in  <span style="color: #003366; font-weight: bold; background-color: #e6f2ff; border: 1px solid #b3d7ff; padding: 2px 6px; border-radius: 4px;">blue</span> indicate sections that typically require updates for this workflow. Click each tab to see the required actions.
 
-If starting from scratch or need some extra guidance, click <a href="{{ '/docs/Document-Data-in-InPort.html' | relative_url }}"> <strong>here</strong> </a> for an in depth InPort guide!
+If starting from scratch or need some extra guidance, click <a href="https://docs.google.com/document/d/1kijqSQbISTcOO9JQ_5_AtAZuVvLc-y0y0v-KlKeO1sY/edit?usp=sharing" target="_blank" rel="noopener noreferrer"> <strong>here</strong> </a> for an in depth InPort guide!
 
 <style>
   .inport-tabs {
@@ -80,7 +80,7 @@ If starting from scratch or need some extra guidance, click <a href="{{ '/docs/D
   <div class="inport-tab" onclick="showTab('catalog-details')">Catalog Details</div>
 </div>
 
-<div id="summary" class="tab-content"><p>No information typically needs to be entered or changed in this section for this workflow.</p></div>
+<div id="summary" class="tab-content"><p>Summary will populate from other tabs. No information is needed.</p></div>
 
 <div id="item-id" class="tab-content active">
   <p>After updates to your data and data dictionary are complete, review the following content in this section.</p>
