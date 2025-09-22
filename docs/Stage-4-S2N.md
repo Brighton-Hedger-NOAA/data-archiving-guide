@@ -1,14 +1,13 @@
 ---
 layout: default
-title: 'Goal 5: Prepare S2N Package'
-parent: Workshops
-nav_order: 6
+title: Stage 4 - Review the S2N Stub
+parent: Full Archive Workflow
+nav_order: 5
 ---
 
-# Prepare S2N Package
-### After the InPort record is complete, the next phase is to prepare the "Submit to NCEI" (S2N) package. This process creates the formal submission for NCEI.
-The first step is to **find and copy a similar S2N stub**  
-If starting from scratch or need some extra guidance, click <a href="{{ '/docs/Step-4-Build-the-S2N-Submission-Package.html' | relative_url }}"> <strong>here</strong> </a> for an in depth S2N submission guide!
+# Stage 4: Review the S2N Stub
+
+From a thurough InPort Record, your Data Manger should create a **S2N** stub for your data. Review the following to ensure accurracy:
 
 <div class="inport-tabs">
   <div class="inport-tab required active" onclick="showTab('people-projects')">People & Projects</div>
@@ -20,7 +19,7 @@ If starting from scratch or need some extra guidance, click <a href="{{ '/docs/S
 
 <div id="people-projects" class="tab-content active">
     <div class="content-section">
-        <h3>Update Responsible Persons:</h3>
+        <h3>Review Responsible Persons:</h3>
         <div class="instruction-box">
             <em>For reference:  <a href="https://docs.google.com/document/d/1rdkL_FRQwnLvBpevDqzkdy_rqf-_XbpCqcYdlQGgrRU/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Scientific Data Roles &amp; External Contacts</a></em>
             <ul>
@@ -31,7 +30,7 @@ If starting from scratch or need some extra guidance, click <a href="{{ '/docs/S
         </div>
     </div>
     <div class="content-section">
-        <h3>Update Related Funding Agencies:</h3>
+        <h3>Review Related Funding Agencies:</h3>
         <div class="instruction-box">
            <ul>
                 <li>CRCP (for all NCRMP datasets)</li>
@@ -42,7 +41,7 @@ If starting from scratch or need some extra guidance, click <a href="{{ '/docs/S
         </div>
     </div>
     <div class="content-section">
-        <h3>Update Related Projects/Programs:</h3>
+        <h3>Review Related Projects/Programs:</h3>
         <div class="instruction-box">
             From InPort  <code>Keywords > Theme Keywords > NODC PROJECT NAMES THESAURUS</code>
             <ul>
@@ -56,7 +55,7 @@ If starting from scratch or need some extra guidance, click <a href="{{ '/docs/S
 
 <div id="dates-locations" class="tab-content">
     <div class="content-section">
-        <h3>Update Dates:</h3>
+        <h3>Review Dates:</h3>
         <div class="instruction-box">
             <div class="two-column-grid">
                 <div class="field-group">
@@ -73,21 +72,21 @@ If starting from scratch or need some extra guidance, click <a href="{{ '/docs/S
         </div>
     </div>
     <div class="content-section">
-        <h3>Update Location:</h3>
+        <h3>Review Location:</h3>
         <div class="instruction-box">
              <p>Bounding coordinates must be exact for the dataset in S2N; obtain directly from the data or QC report.</p> 
              <p>Can also be found from InPort <code>"Extents" > Geographic Area</code>.</p>
         </div>
     </div>
     <div class="content-section">
-        <h3>Update Observation Platforms:</h3>
+        <h3>Review Observation Platforms:</h3>
         <div class="instruction-box">
                 <p>Platform / Ship Name</p>
                 <p>From InPort <code>"Platform Keywords" > NODC PLATFORM NAMES THESAURUS</code></p>
         </div>
     </div>
     <div class="content-section">
-        <h3>Update Geographic Regions:</h3>
+        <h3>Review Geographic Regions:</h3>
         <div class="instruction-box">
             <p>From InPort <code>"Spatial Keywords" > NODC SEA AREA NAMES THESAURUS</code></p>
             <ul class="nested-list">
@@ -234,15 +233,12 @@ If starting from scratch or need some extra guidance, click <a href="{{ '/docs/S
 
 ---
 
-## <center>Once the S2N package is prepared and reviewed, you're ready to proceed.</center>
+## Helpful Tools
+
+  *  [Send2NCEI Tool](https://www.ncei.noaa.gov/archive/send2ncei/)
 
 ---
+<center><a href="{{ '/docs/Stage-5-Review-and-Submission.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+  Last Stage: Data Package Submission
+</a></center>
 
-<center>
-<a href="{{ '/docs/InPort-Metadata-Review.html' | relative_url }}" class="btn btn-secondary fs-6 mb-4 mb-md-0">
-  ← Previous: InPort Metadata Review
-</a>
-<a href="{{ '/docs/Archive-Package-Review.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
-  Next: Archive Package Review →
-</a>
-</center>

@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Step 2 - Prep and QC Your Data
+title: Stage 2.5 - Prep and QC Your Data
 parent: Full Archive Workflow
-nav_order: 2
+nav_order: 3
 ---
 
-# Step 2: Prep and QC Your Data
+# Stage 2.5: Prep and QC Your Data
 
 This step involves organizing, cleaning, and performing quality control checks on your data to ensure it is accurate, consistent, and well-documented before moving forward.
 
 ---
 
-## Stage 1: Organize & Clean Your Data
+## Step 1: Organize & Clean Your Data
 
 
 ### Describe and Preserve Your Data
@@ -36,7 +36,7 @@ This step involves organizing, cleaning, and performing quality control checks o
 
 ---
 
-## Stage 2: Perform Data Integrity & QC Checks
+## Step 2: Perform Data Integrity & QC Checks
 
 Once the data is organized, perform these specific quality control checks on the data itself.
 
@@ -90,7 +90,7 @@ Ensure the data follows all rules required by the scientific collection method.
 
 
 ---
-<a href="{{ '/docs/Step-3-Register-Data-in-InPort.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
-  Next Step: Register Your Data in InPort
-</a>
+<center><a href="{{ '/docs/Stage-3-Finish-InPort.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+  Next Stage: Finish InPort Record
+</a></center>
 

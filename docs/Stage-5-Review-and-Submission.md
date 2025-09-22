@@ -1,14 +1,25 @@
 ---
 layout: default
-title: 'Goal 7: Updates & Submission'
-parent: Archive Refresher & Workshop
-nav_order: 8
+title: Stage 5 - Review and Submission
+parent: Full Archive Workflow
+nav_order: 6
 ---
 
-# Updates & Submission
-### After the peer review is complete and all feedback has been addressed, you are ready for the final submission steps.
+# Data Package Review and Submission
+### This is the final quality control step before submitting the archive package. A thorough review ensures accuracy and a smooth submission process.
 
 ---
+
+## Get a Peer Review
+
+The most important step is to get a "second set of eyes" to review the entire archive package. This helps catch any errors or omissions that might have been missed.
+
+The review should cover all components together:
+- [ ] The Dataset
+- [ ] The Data Dictionary
+- [ ] The InPort Record
+- [ ] The S2N Package
+
 
 ## Final Checks and Notes
 
@@ -20,6 +31,8 @@ Before uploading your files, there are a couple of final details to consider.
 - [ ] **Check the dataset size:** The S2N system has a **100GB limit**. If your dataset is larger than this, you must provide a **Google Drive link** in the 'Notes' section instead of uploading the file directly.
 
 ## Submit the Package
+> **Note:** Most likely a Data Manager will do this step.
+
 
 You have two options for uploading your files.
 
@@ -28,17 +41,11 @@ You have two options for uploading your files.
 
 Once your files are uploaded and your notes are complete, click the **'Submit'** button.
 
+
+## <center>Congratulations on successfully archiving your data!</center>
+
 ---
 
-## <center>Congratulations on completing the submission process!</center>
-
----
-
-<center>
-<a href="{{ '/docs/Archive-Package-Review.html' | relative_url }}" class="btn btn-secondary fs-6 mb-4 mb-md-0">
-  ← Previous: Archive Package Review
-</a>
-<a href="{{ '/docs/Afterwards.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
-  Next: What Happens Afterwards →
-</a>
-</center>
+<center><a href="{{ '/docs/whats-next.html' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+  What's Next?
+</a></center>

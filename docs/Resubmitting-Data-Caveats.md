@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Caveats: Re-submitting Archived Data'
-parent: Archive Refresher & Workshop
+parent: Workshops
 nav_order: 10
 ---
 

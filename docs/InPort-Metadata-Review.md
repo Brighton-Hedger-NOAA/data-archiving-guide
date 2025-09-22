@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Goal 4: InPort Metadata Record Review'
-parent: Archive Refresher & Workshop
+parent: Workshops
 nav_order: 5
 ---
 

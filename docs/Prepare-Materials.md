@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Goal 1: Prepare Materials'
-parent: Archive Refresher & Workshop
+parent: Workshops
 nav_order: 2
 ---
 

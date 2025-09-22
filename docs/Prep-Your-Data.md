@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prep Your Data
-parent: Archive Refresher & Workshop
+parent: Workshops
 nav_order: 1
 ---
 

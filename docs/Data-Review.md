@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Goal 3: Dataset/Data Dictionary Review'
-parent: Archive Refresher & Workshop
+parent: Workshops
 nav_order: 4
 ---
 

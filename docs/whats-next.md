@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 'Afterwards: What to Expect'
-parent: Workshops
-nav_order: 9
+title: Post-Submission
+parent: Full Archive Workflow
+nav_order: 7
 ---
 
 # Afterwards: Post-Submission Process
-### Once you have submitted your archive package, the following steps are handled by different teams. This page outlines what to expect after you have clicked 'Submit'.
+### Once the archive package has been submitted, the following steps are handled by different teams. This page outlines what to expect.
 
 ---
 
@@ -31,8 +31,6 @@ nav_order: 9
 
 ---
 
-<center>
-<a href="{{ '/docs/Updates&Submission.html' | relative_url }}" class="btn btn-secondary fs-6 mb-4 mb-md-0">
-  ← Previous: Updates & Submission
-</a>
-</center>
+<center><a href="{{ '/' | relative_url }}" class="btn btn-custom fs-6 mb-4 mb-md-0">
+  Home
+</a></center>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Goal 2: Set Up InPort'
-parent: Archive Refresher & Workshop
+parent: Workshops
 nav_order: 3
 ---
 

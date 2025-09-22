@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Goal 6: Archive Package Review'
-parent: Archive Refresher & Workshop
+parent: Workshops
 nav_order: 7
 ---
 
@@ -21,7 +21,7 @@ The review should cover all components together:
 - [ ] The S2N Package
 
 
-## <center>After the review is copmplete, you map proceed!</center>
+## <center>After the review is copmplete, you may proceed!</center>
 
 ---
 
